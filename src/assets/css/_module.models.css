@@ -1,0 +1,21 @@
+/* ------------------------------------------------------------ *\
+	Models
+\* ------------------------------------------------------------ */
+
+.models ul { display: flex; flex-wrap: wrap; justify-content: space-between; } 
+
+.models { width: 100%; min-height: 867px; padding-bottom: 25px; }
+
+.models .model { width: 340px; padding-bottom: 50px; list-style: none; }
+
+.model .model__image { margin-bottom: 10px; }
+
+.model .model__title { font-size: 24px; margin-bottom: 10px; }
+
+.model .model__details { font-size: 19px; margin-bottom: 10px; }
+
+/*  filters  */
+
+.models-filters { padding-top: 50px; text-align: center; }
+.models-filters .models-filters__filter { display: inline-block; list-style: none; }
+.models-filters .models-filters__filter + .models-filters__filter { margin-left: 50px; }

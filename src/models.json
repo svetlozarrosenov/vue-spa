@@ -1,0 +1,183 @@
+{
+    "models": [
+        {   "id": 1,
+            "title": "Model Name",
+            "project": "Beeton",
+            "category": "singles",
+            "bedrooms": 3,
+            "floorplan": "assets/images/temp/floorplan.png",
+            "img": "assets/images/temp/model-list.png",
+            "sqft": 6000,
+            "elevations": [
+                {
+                    "name": "Elevation A",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation B",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation C",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Model Name",
+            "project": "Beeton",
+            "category": "townhomes",
+            "bedrooms": 3,
+            "floorplan": "assets/images/temp/floorplan.png",
+            "img": "assets/images/temp/model-list.png",
+            "sqft": 6000,
+            "elevations": [
+                {
+                    "name": "Elevation A",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation B",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation C",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Model Name",
+            "project": "Beeton",
+            "category": "singles",
+            "bedrooms": 3,
+            "floorplan": "assets/images/temp/floorplan.png",
+            "img": "assets/images/temp/model-list.png",
+            "sqft": 6000,
+            "elevations": [
+                {
+                    "name": "Elevation A",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation B",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation C",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Model Name",
+            "project": "Beeton",
+            "category": "townhomes",
+            "bedrooms": 3,
+            "floorplan": "assets/images/temp/floorplan.png",
+            "img": "assets/images/temp/model-list.png",
+            "sqft": 6000,
+            "elevations": [
+                {
+                    "name": "Elevation A",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation B",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation C",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Model Name",
+            "project": "Beeton",
+            "category": "singles",
+            "bedrooms": 3,
+            "floorplan": "assets/images/temp/floorplan.png",
+            "img": "assets/images/temp/model-list.png",
+            "sqft": 6000,
+            "elevations": [
+                {
+                    "name": "Elevation A",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation B",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation C",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Model Name",
+            "project": "Beeton",
+            "category": "singles",
+            "bedrooms": 3,
+            "floorplan": "assets/images/temp/floorplan.png",
+            "img": "assets/images/temp/model-list.png",
+            "sqft": 6000,
+            "elevations": [
+                {
+                    "name": "Elevation A",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation B",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                },
+                {
+                    "name": "Elevation C",
+                    "sqft": 2000,
+                    "img": "assets/images/temp/elevation.png",
+                    "price": 0
+                }
+            ]
+        }
+    ]
+}

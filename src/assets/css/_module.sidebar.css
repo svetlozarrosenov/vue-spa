@@ -1,0 +1,19 @@
+/* ------------------------------------------------------------ *\
+	Sidebar
+\* ------------------------------------------------------------ */
+
+.sidebar .logo { width: auto; }
+
+.sidebar { position: relative; padding: 50px 75px; width: 350px; height: 1080px; }
+
+.sidebar:after { content: ''; position: absolute; top: 0; left: 0; display: block; width: 100%; height: 100%; background-color: #8BBE59; opacity: .2; pointer-events: none; }
+
+.sidebar .sidebar__actions { padding-top: 100px; padding-bottom: 50px; margin-left: -24px; list-style: none; }
+
+.sidebar .sidebar__actions li a { width: 254px; height: 52px; padding-top: 17px; font-size: 18px; text-align: center; }
+
+.sidebar .sidebar__actions li { padding-bottom: 35px; }
+
+.sidebar .sidebar__actions li.sidebar__actions--dark-btn { margin-top: 100px; }
+
+.sidebar .sidebar__actions li.sidebar__actions--dark-btn a { background-color: #505050; }
